@@ -27,9 +27,9 @@ This acts as a long-term revision guide and interview reference.
 
 Each pattern folder contains:
 Technique Name/
-├── theory.md     → explanation of the pattern
-├── template.cpp  → reusable code skeleton
-├── problems.md   → list of solved problems + notes
+├── theory.md     → explanation of the pattern <br>
+├── template.cpp  → reusable code skeleton<br>
+├── problems.md   → list of solved problems + notes<br>
 
 ---
 
