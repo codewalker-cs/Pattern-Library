@@ -91,6 +91,7 @@ string constructDifferentString(vector<string>& nums) {
 
     return ans;
 }
+```
 
 ### Key Takeaway
 
